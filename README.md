@@ -31,15 +31,15 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  aadvik@srmist ~ $ whoami                                       │
 ├─────────────────────────────────────────────────────────────────┤
-│  role    →  ML/DL Engineer • Data Scientist • SWE                 │
+│  role    →  ML/DL Engineer • Data Scientist • SWE               │
 │  degree  →  B.Tech CSE (Computational Intelligence), SRMIST '27 │
 │  base    →  Chennai, India                                      │
-│  stack   →  Machine Learning, Deep Learning, Data Science, Database Management             │
-│     │
+│  stack   →  Machine Learning, Deep Learning, Data Science,      │
+│             Database Management                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Final-year Computational Intelligence undergrad at SRM Institute of Science and Technology, with a CGPA of 9.14. Currently a research intern at IIT Roorkee, working on burst image super-resolution and HDR reconstruction. My team placed 6th at the NTIRE 2026 Efficient Burst HDR & Restoration Challenge (CVPR 2026) with 35.71 dB PSNR. Outside research, I build agentic ML systems such as RetailMind(in-progress) and OnTarget(in-progress), Computer Vision models such as RehabMate, PulmoDetect and NLP based projects such as SkillSync
+Final-year Computational Intelligence undergrad at SRM Institute of Science and Technology, with a CGPA of 9.14. Currently a research intern at IIT Roorkee, working on burst image super-resolution and HDR reconstruction. My team placed 6th at the NTIRE 2026 Efficient Burst HDR & Restoration Challenge (CVPR 2026) with 35.71 dB PSNR. Outside research, I build agentic ML systems such as RetailMind (in-progress) and OnTarget (in-progress), Computer Vision models such as RehabMate, PulmoDetect, and NLP-based projects such as SkillSync.
 
 ---
 
@@ -102,27 +102,47 @@ Final-year Computational Intelligence undergrad at SRM Institute of Science and 
 <tr>
 <td width="50%" valign="top">
 
-**[🔬 BIPNet — Burst Image Super-Resolution](https://github.com/aadvikmazumdar)**
+**[🦾 RehabMate](https://github.com/aadvikmazumdar/RehabMate)**
 
-Research at IIT Roorkee on burst SR and HDR reconstruction. Integrated MambaIR into BIPNet's feature processing, fixed the AlignedL1/AlignedPSNR boundary mismatch that caused the BurstSR gap. Best checkpoint: **44.78 dB**.
+Final-year major project — pose-estimation-based exercise form correction for physiotherapy. Key finding: 62pp accuracy inflation from subject-aware data leakage in CV splits. IEEE paper drafted.
 
-`PyTorch` `Mamba` `Burst SR` `HDR`
+`MediaPipe` `LightGBM` `Flask` `IEEE`
 
 </td>
 <td width="50%" valign="top">
 
-**[🏆 NTIRE 2026 Burst HDR Challenge](https://github.com/aadvikmazumdar/NTIRE2026_MultiExpoRestoration)**
+**[🔗 SkillSync](https://github.com/aadvikmazumdar)**
 
-CVPR 2026 challenge — DarkIR U-Net with EfficientDCNAlignment and CrossExposureAttention. **6th place**, 35.71 dB test PSNR, 1.844M params, 88.6G FLOPs.
+AI-powered recruitment & learning ecosystem. TF-IDF + Cosine Similarity job matching, skill-gap analysis against 3000+ job entries, and multi-API validation (GitHub, LeetCode, HackerRank). **Top 10/250 — Hack the Cosmos.**
 
-`PyTorch` `DarkIR` `Multi-Exposure` `CVPR`
+`Python` `Mistral API` `React.js` `NLP`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[⚽ OnTarget](https://github.com/aadvikmazumdar)**
+**[🫁 PulmoDetect](https://github.com/aadvikmazumdar)**
+
+Medical AI for lung cancer screening — ResNet-18 achieving **98.5% accuracy** across 3 cancer types. DICOM-compatible preprocessing with uncertainty quantification via Bayesian methods.
+
+`PyTorch` `ResNet-18` `DICOM` `Medical Imaging`
+
+</td>
+<td width="50%" valign="top">
+
+**[🏬 RetailMind](https://github.com/aadvikmazumdar)**
+
+Hyperlocal retail pricing and inventory optimization platform using a GNN, LightGBM demand forecasting, and a tool-calling pricing agent built on LangGraph.
+
+`Python` `GNN` `LightGBM` `LangGraph`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[⚽ GoalMap](https://github.com/aadvikmazumdar)**
 
 Football decision intelligence platform combining xG analysis, RAG, a fine-tuned Mistral 7B, and LangGraph-based agentic routing over a PostgreSQL backend.
 
@@ -131,31 +151,11 @@ Football decision intelligence platform combining xG analysis, RAG, a fine-tuned
 </td>
 <td width="50%" valign="top">
 
-**[🏬 RetailMind](https://github.com/aadvikmazumdar)**
+**[🌾 CropXpert](https://github.com/aadvikmazumdar)**
 
-Hyperlocal retail pricing and inventory optimization platform using a GNN, LightGBM demand forecasting, and a tool-calling pricing agent.
+Agricultural crop recommender using soil type, pH, and temperature. ML model for yield prediction and smart crop suggestions. **1st Place — TechKnow Hackathon, SRM IST.**
 
-`Python` `GNN` `LightGBM` `Agents`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🦾 RehabMate](https://github.com/aadvikmazumdar/RehabMate)**
-
-Final-year major project — pose-estimation-based exercise form correction. IEEE paper drafted; key finding of 62pp accuracy inflation from subject-aware data leakage in CV splits.
-
-`MediaPipe` `LightGBM` `Flask` `IEEE`
-
-</td>
-<td width="50%" valign="top">
-
-**[🛡️ AegisCode](https://github.com/aadvikmazumdar)**
-
-Active project — details evolving.
-
-`Python` `In Progress`
+`Python` `Scikit-learn` `ML`
 
 </td>
 </tr>
@@ -165,13 +165,17 @@ Active project — details evolving.
 
 ## ◈ Experience
 
-**🔬 Research Intern — IIT Roorkee** *(Ongoing)*
-- Working under Dr. Subrahmanyam Murala and Dr. R. Balasubramanian on burst image super-resolution and HDR reconstruction
-- Achieved competitive results on synthetic and RealBSRRAW datasets; best checkpoint 44.78 dB
-- Team CVPR_IITR placed 6th at NTIRE 2026 (CVPR 2026), 35.71 dB test PSNR
+**🔬 Research Intern — IIT Roorkee** *(Oct 2025 – Present)*
+- Working under Dr. Subrahmanyam Murala and Dr. R. Balasubramanian on burst image super-resolution and multi-exposure HDR reconstruction
+- Designed and trained a deep learning architecture in PyTorch achieving **43.29 dB PSNR / 0.9744 SSIM**, outperforming 5 prior benchmarks (BIPNet, Burstormer, FBANet, BurstM, DBSR); second-author paper submitted to **BMVC 2026**
+- Co-authored a peer-reviewed paper at **CVPR Workshops 2026** (NTIRE Challenge on Efficient Burst HDR & Restoration) — exposure-aware HDR model under strict efficiency constraints (1.84M params, <86 GFLOPs, 35.7 dB PSNR) → [📄 Paper](#YOUR-PAPER-LINK-HERE)
+- Trained and benchmarked models across multi-GPU clusters (NVIDIA L40S, RTX 6000 Ada) using CUDA-optimized custom kernels
 
-**🤝 Community Service — Mrityunjay Foundation**
-- Taught underprivileged students as part of community outreach
+**🤖 AI/ML Intern — aiEnsured** *(May 2025 – Aug 2025)*
+- Achieved **89% weighted F1-score** on a highly imbalanced spam dataset (168K samples, 40% label noise) via BERT fine-tuning with dropout regularization, early stopping, and stratified validation
+- Engineered production-ready training pipeline with AdamW, LR warmup scheduling, gradient clipping, and automated checkpointing
+- Developed DICOM medical image preprocessing system for lung X-ray analysis with automated inpainting denoising (TELEA/NS), multi-scale normalization, and bounding box annotation pipeline
+- Built data integration platform consolidating 60K+ unstructured records into PostgreSQL with automated ETL pipelines and Plotly-powered interactive dashboards
 
 ---
 
@@ -180,20 +184,11 @@ Active project — details evolving.
 | # | Achievement | Detail |
 |---|---|---|
 | 01 | 🏆 NTIRE 2026 | 6th place, CVPR 2026 — 35.71 dB test PSNR |
-| 02 | 🔬 IIT Roorkee Research | Burst SR & HDR, best checkpoint 44.78 dB |
+| 02 | 🔬 IIT Roorkee Research | Burst SR & HDR — BMVC 2026 paper submitted |
 | 03 | 🦾 RehabMate (IEEE) | 62pp data leakage finding, paper drafted |
-| 04 | 🎓 CGPA | 9.03, B.Tech CSE (Computational Intelligence), SRMIST |
-| 05 | 🤝 Community Service | Mrityunjay Foundation — teaching outreach |
-
----
-
-## ◈ LeetCode
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-id?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&background=0d1117)
-
-</div>
+| 04 | 🥇 TechKnow Hackathon | 1st Place — CropXpert, SRM IST |
+| 05 | 🏅 Hack the Cosmos | Top 10/250 — SkillSync AI recruitment platform |
+| 06 | 🎓 CGPA | 9.14, B.Tech CSE (Computational Intelligence), SRMIST |
 
 ---
 
@@ -211,48 +206,12 @@ Active project — details evolving.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-three-nu-85.vercel.app/api?username=aadvikmazumdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats-three-nu-85.vercel.app/api/top-langs/?username=aadvikmazumdar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/>
+<img src="https://github-readme-stats-three-nu-85.vercel.app/api?username=aadvikmazumdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadvikmazumdar&bg_color=0d1117&color=00d9ff&line=00d9ff&point=a78bfa&area=true&hide_border=true&area_color=1a0033" />
 
 </div>
 
----
-
-## ◈ Currently Learning
-
-<div align="center">
-
-```
-[ ACTIVE DOWNLOADS ]
-
-  Burst SR / HDR Reconstruction      █████████░  90%
-  Agentic Systems (LangGraph)        ███████░░░  70%
-  System Design                      ██████░░░░  60%
-  SQL (advanced joins, subqueries)   ███████░░░  70%
-  Competitive Programming (C++)      ████████░░  80%
-```
-
-</div>
-
----
-
-## ◈ Timeline
-
-```
-  2022  →  Started B.Tech CSE (Computational Intelligence) at SRMIST.
-  2024  →  Built applied ML/CV projects, started competitive programming.
-  2025  →  Began research internship at IIT Roorkee — Burst SR & HDR.
-  2026  →  NTIRE 2026 (CVPR) — 6th place. Building GoalMap & RetailMind.
-  2027  →  ML Engineer / CV Researcher. ✦
-```
-
----
-
-<div align="center">
 
 ```cpp
 while (researching) {
