@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Aadvik%20Mazumdar&fontSize=52&color=0:0d1117,100:1a0033&fontColor=00d9ff&animation=fadeIn&fontAlignY=55&desc=ML%20Research%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Computational%20Intelligence%20%E2%80%A2%20SRMIST&descAlignY=75&descSize=14&descColor=a78bfa&stroke=00d9ff&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Aadvik%20Mazumdar&fontSize=52&color=0:0d1117,100:1a0033&fontColor=00d9ff&animation=fadeIn&fontAlignY=55&desc=ML/DL%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Computer%20Science%20with%20Specialization%20in%20AIML%20%E2%80%A2%20SRMIST&descAlignY=75&descSize=14&descColor=a78bfa&stroke=00d9ff&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Final-Year+CS+(Computational+Intelligence)%2C+SRMIST;Research+Intern+%40+IIT+Roorkee;Burst+Image+Super-Resolution+%26+HDR+Reconstruction;NTIRE+2026+%E2%80%94+6th+Place%2C+35.71+dB+PSNR;Building+GoalMap+%26+RetailMind;Open+to+ML+Engineer+roles+(May%E2%80%93Jul+2026)." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Final-Year+CS+(Computational+Intelligence)%2C+SRMIST;Research+Intern+%40+IIT+Roorkee;ex-ML+Intern+%40+aiEnsured;" alt="Typing SVG" />
 
 </div>
 
@@ -31,26 +31,23 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  aadvik@srmist ~ $ whoami                                       │
 ├─────────────────────────────────────────────────────────────────┤
-│  role    →  ML Research • Computer Vision • SWE                 │
-│  degree  →  B.Tech CSE (Computational Intelligence), SRMIST '26 │
+│  role    →  ML/DL Engineer • Data Scientist • SWE                 │
+│  degree  →  B.Tech CSE (Computational Intelligence), SRMIST '27 │
 │  base    →  Chennai, India                                      │
-│  stack   →  PyTorch · CV · LLMs/Agents · C++ · SQL              │
-│  status  →  Open to ML Engineer internships (May–Jul 2026)      │
+│  stack   →  Machine Learning, Deep Learning, Data Science, Database Management             │
+│     │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Final-year Computational Intelligence undergrad at SRM Institute of Science and Technology, with a CGPA of 9.03. Currently a research intern at IIT Roorkee, working on burst image super-resolution and HDR reconstruction. My team placed 6th at the NTIRE 2026 Efficient Burst HDR & Restoration Challenge (CVPR 2026) with 35.71 dB PSNR. Outside research, I build agentic ML systems and compete in C++ DSA.
+Final-year Computational Intelligence undergrad at SRM Institute of Science and Technology, with a CGPA of 9.14. Currently a research intern at IIT Roorkee, working on burst image super-resolution and HDR reconstruction. My team placed 6th at the NTIRE 2026 Efficient Burst HDR & Restoration Challenge (CVPR 2026) with 35.71 dB PSNR. Outside research, I build agentic ML systems such as RetailMind(in-progress) and OnTarget(in-progress), Computer Vision models such as RehabMate, PulmoDetect and NLP based projects such as SkillSync
 
 ---
 
 ## ◈ Current Focus
 
 ```
-  • Burst SR research (BIPNet) — best checkpoint 44.78 dB
-  • GoalMap — football decision intelligence (xG, RAG, fine-tuned LLM)
+  • OnTarget — football decision intelligence (xG, RAG, fine-tuned LLM)
   • RetailMind — hyperlocal retail pricing & inventory optimization
-  • Solving DSA in C++ — consistent practice for placements
-  • Open to ML Engineer internships and research collaborations
 ```
 
 ---
@@ -125,7 +122,7 @@ CVPR 2026 challenge — DarkIR U-Net with EfficientDCNAlignment and CrossExposur
 <tr>
 <td width="50%" valign="top">
 
-**[⚽ GoalMap](https://github.com/aadvikmazumdar)**
+**[⚽ OnTarget](https://github.com/aadvikmazumdar)**
 
 Football decision intelligence platform combining xG analysis, RAG, a fine-tuned Mistral 7B, and LangGraph-based agentic routing over a PostgreSQL backend.
 
