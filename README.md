@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/your.email%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadvikmazumdar@gmail.com)
+[![Gmail](https://img.shields.io/badge/aadvikmazumdar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadvikmazumdar@gmail.com)
 
 <br/>
 
