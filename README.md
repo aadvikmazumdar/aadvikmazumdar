@@ -110,7 +110,7 @@ Final-year major project — pose-estimation-based exercise form correction for 
 </td>
 <td width="50%" valign="top">
 
-**[🔗 SkillSync](https://github.com/aadvikmazumdar)**
+**[🔗 SkillSync](https://github.com/aadvikmazumdar/Skill-sync)**
 
 AI-powered recruitment & learning ecosystem. TF-IDF + Cosine Similarity job matching, skill-gap analysis against 3000+ job entries, and multi-API validation (GitHub, LeetCode, HackerRank). **Top 10/250 — Hack the Cosmos.**
 
@@ -121,7 +121,7 @@ AI-powered recruitment & learning ecosystem. TF-IDF + Cosine Similarity job matc
 <tr>
 <td width="50%" valign="top">
 
-**[🫁 PulmoDetect](https://github.com/aadvikmazumdar)**
+**[🫁 PulmoDetect](https://github.com/aadvikmazumdar/PulmoDetect)**
 
 Medical AI for lung cancer screening — ResNet-18 achieving **98.5% accuracy** across 3 cancer types. DICOM-compatible preprocessing with uncertainty quantification via Bayesian methods.
 
@@ -130,7 +130,7 @@ Medical AI for lung cancer screening — ResNet-18 achieving **98.5% accuracy** 
 </td>
 <td width="50%" valign="top">
 
-**[🏬 RetailMind](https://github.com/aadvikmazumdar)**
+**[🏬 RetailMind](https://github.com/aadvikmazumdar/RetailMind)**
 
 Hyperlocal retail pricing and inventory optimization platform using a GNN, LightGBM demand forecasting, and a tool-calling pricing agent built on LangGraph.
 
@@ -141,7 +141,7 @@ Hyperlocal retail pricing and inventory optimization platform using a GNN, Light
 <tr>
 <td width="50%" valign="top">
 
-**[⚽ GoalMap](https://github.com/aadvikmazumdar)**
+**[⚽ OnTarget](https://github.com/aadvikmazumdar/OnTarget---Football-Analytics-Agentic-AI-System)**
 
 Football decision intelligence platform combining xG analysis, RAG, a fine-tuned Mistral 7B, and LangGraph-based agentic routing over a PostgreSQL backend.
 
@@ -150,7 +150,7 @@ Football decision intelligence platform combining xG analysis, RAG, a fine-tuned
 </td>
 <td width="50%" valign="top">
 
-**[🌾 CropXpert](https://github.com/aadvikmazumdar)**
+**[🌾 CropXpert](https://github.com/aadvikmazumdar/CropXpert)**
 
 Agricultural crop recommender using soil type, pH, and temperature. ML model for yield prediction and smart crop suggestions. **1st Place — TechKnow Hackathon, SRM IST.**
 
