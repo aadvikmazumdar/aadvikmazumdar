@@ -167,7 +167,7 @@ Agricultural crop recommender using soil type, pH, and temperature. ML model for
 **🔬 Research Intern — IIT Roorkee** *(Oct 2025 – Present)*
 - Working under Dr. Subrahmanyam Murala and Dr. R. Balasubramanian on burst image super-resolution and multi-exposure HDR reconstruction
 - Designed and trained a deep learning architecture in PyTorch achieving **43.29 dB PSNR / 0.9744 SSIM**, outperforming 5 prior benchmarks (BIPNet, Burstormer, FBANet, BurstM, DBSR); second-author paper submitted to **BMVC 2026**
-- Co-authored a peer-reviewed paper at **CVPR Workshops 2026** (NTIRE Challenge on Efficient Burst HDR & Restoration) — exposure-aware HDR model under strict efficiency constraints (1.84M params, <86 GFLOPs, 35.7 dB PSNR) → [📄 Paper](#YOUR-PAPER-LINK-HERE)
+- Co-authored a peer-reviewed paper at **CVPR Workshops 2026** (NTIRE Challenge on Efficient Burst HDR & Restoration) — exposure-aware HDR model under strict efficiency constraints (1.84M params, <86 GFLOPs, 35.7 dB PSNR) → [📄 Paper](https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Park_NTIRE_2026_Challenge_on_Efficient_Burst_HDR_and_Restoration_Datasets_CVPRW_2026_paper.pdf)
 - Trained and benchmarked models across multi-GPU clusters (NVIDIA L40S, RTX 6000 Ada) using CUDA-optimized custom kernels
 
 **🤖 AI/ML Intern — aiEnsured** *(May 2025 – Aug 2025)*
