@@ -213,10 +213,12 @@ Agricultural crop recommender using soil type, pH, and temperature. ML model for
 
 
 ```cpp
-while (researching) {
-    train_model();
-    fix_bug();
-    push_psnr_higher();
+while (coding == true){
+      clean(data);
+      train(model);
+      debug(bugs);
+      drink(coffee);
+      return satisfaction
 }
 ```
 
